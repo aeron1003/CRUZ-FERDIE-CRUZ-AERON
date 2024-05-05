@@ -55,12 +55,7 @@
     font-family: sans-serif;
     font-size: 13px;
   }
-  .heading {
-    text-align: center;
-    color: #fff;
-    text-transform: uppercase;
-    padding-bottom: 3.5rem;
-    font-size: 4rem;
+  
   .headerDescWrapper {
     display: flex;
     width: 80%;
